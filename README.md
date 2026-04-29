@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## 🛠 Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,php,cpp,django,docker,postgres,mysql,git,github,node.js"/>
+
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ERPNext-Frappe-blue?style=for-the-badge"/>
+</p>
+
+---
