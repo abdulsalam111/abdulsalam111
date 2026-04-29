@@ -51,6 +51,15 @@ I'm a backend-focused developer with a strong interest in building practical sys
 
 ## 🧰 Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,php,cpp,django,docker,postgres,mysql,git,github,linux,flutter&theme=dark"/>
+
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-17-purple?style=for-the-badge&logo=odoo&logoColor=white"/>
+</p>
+
 ### 👨‍💻 Backend
 - Node.js
 - Express.js
