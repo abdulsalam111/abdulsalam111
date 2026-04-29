@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 -->
-# 👨‍💻 Abood | Backend Engineer
+# 👨‍💻 Abdulsalam Y Albutlah | Backend Engineer
 
 > Building scalable systems, solving real-world problems, and turning ideas into production-ready platforms.
 
@@ -92,14 +92,14 @@ A service marketplace platform designed for both:
 - 🧾 Task lifecycle management (request → accept → complete → payment)
 
 ---
-
+<!--
 ### 📘 ICDL Training Program
 A structured training curriculum:
 - Covers core computer skills
 - Includes **Microsoft Access**
 - Designed as a **2-month intensive program**
 - Daily breakdown (theory + practice)
-
+-->
 ---
 
 ### ⚙️ Odoo Custom Modules
@@ -108,7 +108,7 @@ Development and debugging of:
 - Business workflows
 - OWL frontend issue resolution
 
----
+<!---
 
 ## 📈 GitHub Stats
 
@@ -118,7 +118,7 @@ Development and debugging of:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
----
+--->
 
 ## 🎯 Goals / Currently Learning
 
@@ -132,8 +132,8 @@ Development and debugging of:
 
 ## 📬 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-
+- GitHub: https://github.com/abdulsalam111
+- LinkedIn: https://www.linkedin.com/in/abdulsalam-yahya/
 ---
 
 ## ⚡ Philosophy
